@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/game_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MenuActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:gravity="center"
+        android:hapticFeedbackEnabled="false"
+        android:text="Line Block Break out"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+    <Button
+        android:id="@+id/start_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start" />
+
+    <Button
+        android:id="@+id/quit_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Quit" />
+
+    <TextView
+        android:id="@+id/cpyrgt"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:gravity="bottom|center"
+        android:text="© 2019. by Gyeong-Hyeon Kim"
+        android:textColor="@android:color/black" />
+
+</LinearLayout>
