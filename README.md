@@ -1,8 +1,8 @@
 # line-block-breakout
 
-<a href="#"><img src="https://github.com/ddamddi/line-block-breakout/blob/master/ppt/img/00.jpg" width="33%" alt="sample image"></a>
-<a href="#"><img src="https://github.com/ddamddi/line-block-breakout/blob/master/ppt/img/01.jpg" width="33%" alt="sample image"></a>
-<a href="#"><img src="https://github.com/ddamddi/line-block-breakout/blob/master/ppt/img/02.jpg" width="33%" alt="sample image"></a>  
+<a href="#"><img src="https://github.com/ddamddi/line-block-breakout/blob/master/ppt/img/00.jpg" width="30%" alt="sample image"></a>
+<a href="#"><img src="https://github.com/ddamddi/line-block-breakout/blob/master/ppt/img/01.jpg" width="30%" alt="sample image"></a>
+<a href="#"><img src="https://github.com/ddamddi/line-block-breakout/blob/master/ppt/img/02.jpg" width="30%" alt="sample image"></a>  
 
 ## Rule (기본 규칙)
 - 하나의 스마트폰으로 하는 2 Player (1 vs 1) 턴 제 형식의 보드게임
